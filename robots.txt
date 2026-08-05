@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Mywayking.github.io/reference-2w209d/sitemap.xml
